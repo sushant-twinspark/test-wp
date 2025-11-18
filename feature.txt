@@ -1,0 +1,1 @@
+This is simple test file to check that the git feature of wp hosting service is working or not.
